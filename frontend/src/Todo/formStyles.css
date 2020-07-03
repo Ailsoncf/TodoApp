@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+}
+
+.divInput {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  width: 900px;
+  height: 38px;
+}
+
+.button {
+  height: 38px;
+  width: 38px;
+  color: rgba(0, 0, 223, 0.658);
+}
